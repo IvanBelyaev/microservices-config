@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EasyBank accounts related production APIs "
+  message: "Welcome to EasyBank accounts related prod APIs "
   contactDetails:
     name: "Anna Krasnova - Product Owner"
     email: "{cipher}d2abc1b7aec80f74ecd5f13dacb25fc96491e2751d15a18bbdcf307a0202657bf560cffdbe1949c4354ddd3a60cb6ace"
